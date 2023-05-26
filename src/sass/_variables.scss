@@ -3,3 +3,9 @@ $titleColor: crimson;
 $TextColorOne: darkorchid;
 $TextColortwo: green;
 
+
+@mixin text($bgColor){
+    background-color: $bgColor;
+    color: red;
+}
+

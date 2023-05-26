@@ -9,4 +9,15 @@ main{
     #section-two{
         color: $TextColortwo;
     }
+    div{
+        #p1{
+            @include text(aqua)
+        }
+        #p2{
+            @include text(pink)
+        }
+        #p3{
+            @include text(yellow)
+        }
+    }
 }

@@ -7,6 +7,18 @@ main {
 main #section-two {
   color: green;
 }
+main div #p1 {
+  background-color: aqua;
+  color: red;
+}
+main div #p2 {
+  background-color: pink;
+  color: red;
+}
+main div #p3 {
+  background-color: yellow;
+  color: red;
+}
 
 body {
   background-color: burlywood;
